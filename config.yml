@@ -21,18 +21,23 @@ languages:
         weight: 1
         menu:
             main:
-                - name: Archive
-                  url: archives
-                  weight: 5
-                - name: Search
-                  url: search/
+                # - name: Archive
+                #   url: archives
+                #   weight: 5
+                - name: About
+                  url: about/
+                # - name: Search
+                #   url: search/
+                #   weight: 10
+                - name: Projects
+                  url: projects/
                   weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: Categories
-                  url: categories/
-                  weight: 10
+                # - name: Tags
+                #   url: tags/
+                #   weight: 10
+                # - name: Categories
+                #   url: categories/
+                #   weight: 10
 
     # fr:
     #     languageName: ":fr:"
@@ -112,7 +117,7 @@ params:
     images: ["papermod-cover.png"]
 
     profileMode:
-        enabled: false
+        enabled: true
         title: Ryan Zimmerman
         subtitle: Oregon State University Computer Science Student
         imageUrl: "/ryan.jpg"
