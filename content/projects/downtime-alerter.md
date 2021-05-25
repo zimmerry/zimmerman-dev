@@ -15,3 +15,6 @@ disableShare: true
 
 Downtime Alerter was built using Node.js and Handlebars for the web interface,
 and uses TextBelt to sent a text message using an SMTP relay.
+
+I created it to have a simple method of receiving notifications when components
+of my homelab have issues or go down.
