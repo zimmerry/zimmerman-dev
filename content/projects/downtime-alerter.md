@@ -9,6 +9,7 @@ description: "Sends a text message when a website is inaccessible"
 cover:
     image: "/downtime.png"
     alt: "Downtime Alerter Screenshot"
+disableShare: true
 ---
 [GitHub](https://github.com/zimmerry/downtime-alerter)
 
