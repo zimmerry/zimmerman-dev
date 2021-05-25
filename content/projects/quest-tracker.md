@@ -9,5 +9,10 @@ description: "CS 290 Final Project"
 cover:
     image: "/cs-290-final.png"
     alt: "CS 290 Final Project Screenshot"
+disableShare: true
 ---
+[GitHub](https://github.com/zimmerry/final-project-team-2)
 
+Quest Tracker was created as my final project for CS 290 - Web Development,
+with 3 other Computer Science students. It uses Node.js and Handlebars templating
+to dynamically generate content.
