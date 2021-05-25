@@ -149,6 +149,9 @@ params:
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
+    ShowBreadCrumbs: false
+    disableShare: true
+
     # label:
     #     text: "Home"
     #     icon: icon.png
