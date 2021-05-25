@@ -119,7 +119,7 @@ params:
     profileMode:
         enabled: true
         title: Ryan Zimmerman
-        subtitle: Oregon State University Computer Science Student
+        subtitle: Computer Science Student
         imageUrl: "/ryan.jpg"
         imageTitle: my image
         imageWidth: 240
@@ -133,7 +133,7 @@ params:
     homeInfoParams:
         Title: "Ryan Zimmerman"
         Content: >
-            Oregon State University Computer Science Student.
+            Computer Science Student.
     socialIcons:
         - name: github
           url: "https://github.com/zimmerry"
