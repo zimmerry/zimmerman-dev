@@ -14,7 +14,7 @@ disableShare: true
 [GitHub](https://github.com/zimmerry/downtime-alerter)
 
 Downtime Alerter was built using Node.js and Handlebars for the web interface,
-and uses TextBelt to sent a text message using an SMTP relay.
+and uses TextBelt to send a text message using an SMTP relay.
 
-I created it to have a simple method of receiving notifications when components
-of my homelab have issues or go down.
+I created it because I host a lot of public-facing services on my homelab, and 
+I wanted to have a simple method to get an SMS notification when my servers go down.
