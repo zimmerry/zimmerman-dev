@@ -6,7 +6,7 @@ showToc: false
 hidemeta: true
 disableShare: true
 ---
-Hi, I'm Ryan! I'm a sophomore Computer Science student at Oregon State University.
+Hi, I'm Ryan! I'm a junior Computer Science student at [Oregon State University](https://oregonstate.edu).
 
 I currently work as a Student Systems Administrator at the
 [Oregon State Univerisity Open Source Lab](https://osuosl.org) doing configuration
