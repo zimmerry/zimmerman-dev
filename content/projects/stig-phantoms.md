@@ -1,7 +1,7 @@
 ---
 title: "STIG Phantoms"
 date: 2021-06-22T22:38:17-07:00
-draft: false
+draft: true
 author: "Ryan Zimmerman"
 tags: ["personal-project"]
 showToc: false
