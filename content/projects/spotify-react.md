@@ -17,11 +17,15 @@ Spotify React was built using NodeJS, ReactJS, the [Spotify Web API](https://dev
 
 It was created with a team of 2 other Computer Science students for CS499 - Advanced Web Development at Oregon State University.
 
-<!-- Its functions include:
-    - Authenticating with Spotify accounts using OAUTH tokens
-    - Searching for Artists and Songs
-    - Viewing Artist Details
-    - Viewing song details and lyrics
-    - Liking and unliking songs
-    - Viewing users' Liked Songs, Followed Artists, and Playlists
-    - Play music with the Web Playback SDK -->
+Its functions include:
+- Authenticating with Spotify accounts using OAUTH tokens
+- Searching for Artists and Songs
+- Viewing Artist Details
+- Viewing song details and lyrics
+- Liking and unliking songs
+- Viewing users' Liked Songs, Followed Artists, and Playlists
+- Play music with the Web Playback SDK
+
+![Spotify React Login Page](/spotify-1.png)
+
+![Spotify React Playback](/spotify-2.png)
