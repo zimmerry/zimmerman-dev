@@ -7,7 +7,7 @@ tags: ["personal-project"]
 showToc: false
 description: "React Client for Spotify, final project for CS499 - Advanced Web Development"
 cover:
-    image: "/spotify-0"
+    image: "/spotify-0.png"
     alt: "Spotify React Screenshot"
 disableShare: true
 ---
@@ -24,3 +24,4 @@ Its functions include:
     - Viewing song details and lyrics
     - Liking and unliking songs
     - Viewing users' Liked Songs, Followed Artists, and Playlists
+    - Play music with the Web Playback SDK
