@@ -1,6 +1,6 @@
 ---
 title: "Spotify React"
-date: 2022-12-01T22:38:17-07:00
+date: 2022-11-30T22:38:17-07:00
 draft: false
 author: "Ryan Zimmerman"
 tags: ["personal-project"]
@@ -17,11 +17,11 @@ Spotify React was built using NodeJS, ReactJS, the [Spotify Web API](https://dev
 
 It was created with a team of 2 other Computer Science students for CS499 - Advanced Web Development at Oregon State University.
 
-Its functions include:
+<!-- Its functions include:
     - Authenticating with Spotify accounts using OAUTH tokens
     - Searching for Artists and Songs
     - Viewing Artist Details
     - Viewing song details and lyrics
     - Liking and unliking songs
     - Viewing users' Liked Songs, Followed Artists, and Playlists
-    - Play music with the Web Playback SDK
+    - Play music with the Web Playback SDK -->
